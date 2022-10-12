@@ -1,0 +1,67 @@
+body {
+	background-image: url(Brick_brown_dif.webp);
+}
+
+ a {
+ 	color: white;
+ 	position: relative;
+ 	bottom: 270px;
+    left: 100px;
+ }
+
+.inf {
+	position: relative;
+	bottom: 400px;
+	left: 400px;
+}
+
+h1 {
+	color: white;
+	position: relative;
+	left: 600px;
+	bottom: 350px;
+}
+
+p {
+	color: white;
+	position: relative;
+	left: 130px;
+	bottom: 350px;
+	width: 400px;
+}
+
+.fgfg {
+	position: relative;
+	bottom: 640px;
+	left: 600px;
+	width: 550px;
+}
+
+.h1 {
+	position: relative;
+	bottom: 550px;
+	left: 200px;
+}
+
+.re {
+	width: 600px;
+	position: relative;
+	bottom: 530px;
+}
+
+.fd {
+	position: relative;
+	left: 20px;
+	width: 700px;
+}
+
+.op {
+	color: white;
+	position: relative;
+	bottom: 300px;
+    left: 30px;
+}
+
+/*div {
+	width: 1px;
+}*/

@@ -1,0 +1,83 @@
+body {
+	background-image: url(Porch.webp);
+}
+
+
+.d {
+   width: 50%;
+}
+
+.a {
+	text-decoration: red;
+	color: red;
+	text-decoration-color: red;
+}
+
+h1 {
+	color: black;
+}
+
+
+/*.block {	
+   color: #fff;
+   position: relative;
+   z-index: 2;
+}*/
+
+/*.block {
+	background-color: black;
+	color: #fff;
+	position: relative;
+	right: 70px;
+	left: 70px;
+}*/
+
+
+div {
+	position: relative;
+	left: 200px;
+	bottom: 270px;
+}
+
+h1 {
+	color: #fff;
+}
+
+a {
+	color: white;
+}
+
+img {
+	position: relative;
+	left: 150px;
+}
+
+.er {
+	position: relative;
+	left: 1%;
+
+}
+
+
+.l {
+	position: relative;
+	bottom: 450px ;
+}
+
+video {
+	width: 500px;
+	position: relative;
+   bottom: 350px;
+}
+
+.po {
+	position: relative;
+	left: 70px;
+	bottom: 1px;
+}
+ a {
+ 	color: white;
+ 	position: relative;
+
+ }
+

@@ -1,0 +1,25 @@
+body {
+	background-image: url(Brick_yellow_dif.webp);
+}
+
+h1{
+	color: black;
+}
+
+a {
+	color: black;
+	position: relative;
+	left: 450px;
+}
+
+h1 {
+	color: black;
+	position: relative;
+	left: 300px;
+}
+
+img {
+	position: relative;
+	bottom: 1px;
+	left: 450px;
+}
