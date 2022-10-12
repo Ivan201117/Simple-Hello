@@ -65,3 +65,13 @@ p {
 /*div {
 	width: 1px;
 }*/
+
+
+table {
+	width: 550px;
+	color: black;
+	background-color: white;
+	position: relative;
+	left: 600px;
+	bottom: 1720px;
+}
